@@ -1,0 +1,159 @@
+body {
+    color: #40514e;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    font-weight: 550;
+    line-height: 1.5;
+    margin: 0;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.3rem;
+    font-weight: normal;
+    margin: 0;
+}
+
+h3 {
+    color: #11999f;
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+span {
+    text-decoration: underline;
+
+}
+
+hr {
+    border: dotted #eaf6f6 10px;
+    border-bottom: none;
+    width: 5%;
+    margin: 20px auto;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 150px;
+    background-color: #f1e3cb;
+}
+
+.middle-container {
+    margin: 100px 0 60px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 20px 0 15px;
+}
+
+.top-cloud {
+    width: 10%;
+    position: absolute;
+    right: 300px;
+    top: 10%;
+}
+
+.bottom-cloud {
+    width: 10%;
+    position: absolute;
+    left: 300px;
+    bottom: 30%;
+}
+
+.mountain {
+    margin-top: 20px;
+    width: 25%;
+}
+
+.skill-row {
+    margin: 100px auto;
+    text-align: left;
+
+    width: 50%;
+}
+
+.skill-img1 {
+    float: left;
+    padding-right: 30px;
+    width: 25%;
+
+}
+
+.skill-img2 {
+    float: right;
+    padding-right: 30px;
+    width: 25%;
+
+}
+
+.profile-pic {
+    margin-bottom: 25px;
+    border: 2px solid #eaf6f6;
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+}
+
+
+.copyright {
+    font-size: 0.55rem;
+}
+
+.copyright-aneesh {
+    color: #eaf6f6;
+    font-size: 1rem;
+}
+
+.intro {
+    margin: 5px auto 10px;
+    width: 45%;
+}
+
+.simplicity {
+    font-size: 0.95rem;
+    width: 45%;
+    margin: auto;
+}
+
+.btn {
+    background-color: #fff;
+    border: 1px solid #40514e;
+    border-radius: 10px;
+    color: black;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
+.footer-link {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #eaf6f6;
+}
+
+.btn-container {
+    margin-top: 30px;
+}
+
+.btn:hover {
+    background-color: #ca5116;
+    color: #40514e;
+}
